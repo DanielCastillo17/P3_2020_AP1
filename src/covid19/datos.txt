@@ -1,0 +1,30 @@
+10
+Camilo, 6, 2
+Dolor de cabeza
+Congestion
+Daniel, 19, 3
+Dolor de cabeza
+Congestion
+Malestar
+Roberto, 16, 1
+Congestion
+Alex, 12, 2
+Dolor de cabeza
+Malestar
+Eduardo, 19, 2
+Malestar
+Congestion
+Roberto, 5, 1
+Malestar
+Andres, 35, 3
+Dolor de cabeza
+Congestion
+Malestar
+Juliana, 5, 1
+Congestion
+Manuela, 7, 1
+Dolor de cabeza
+David, 16, 3
+Dolor de cabeza
+Congestion
+Malestar
